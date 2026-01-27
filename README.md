@@ -1,6 +1,6 @@
 # AI-Powered Chatbot by Jay Likhar
 
-A sleek, minimal Apple/iOS-inspired chatbot application powered by Groq's fast AI models.
+A Chatbot application made by using Groq's fast AI models.
 
 ## Features
 
